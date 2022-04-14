@@ -1,0 +1,27 @@
+.Button{
+
+   
+    height:80px;
+    width:80px;
+
+    //위치
+    
+
+
+    //모양
+    border-radius:50px;
+    background-color:rgb(97, 0, 255);
+
+    font-size:70px;
+    color:white;
+
+    cursor:pointer;
+
+    &:hover{
+        height:82px;
+        width: 82px;
+        font-size:72px;
+    }
+
+}
+
